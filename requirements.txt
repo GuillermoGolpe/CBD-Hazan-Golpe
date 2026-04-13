@@ -1,0 +1,6 @@
+streamlit
+pandas
+groq
+tabulate
+openpyxl
+python-docx
